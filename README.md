@@ -1,4 +1,4 @@
-# Customer Inactivity & Churn Risk Analysis
+# SaaS Customer Churn & Retention Risk Analysis
 
 **50,000 customers · Databricks SQL · Customer segmentation · Dashboard reporting**
 
