@@ -1,0 +1,6 @@
+churn_type,customers,percentage_of_customers
+Financial churn,21645,43.290
+Silent churn,14741,29.482
+Active,13612,27.224
+No payment history,1,0.002
+Engagement churn,1,0.002
